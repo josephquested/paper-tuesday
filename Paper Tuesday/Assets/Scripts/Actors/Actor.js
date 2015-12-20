@@ -3,56 +3,25 @@
 public class Actor extends MonoBehaviour {
 
 	var speed : float;
-	var direction : int;
 
-	@HideInInspector var animator : Animator;
-
-	@HideInInspector var horizontal : int;
-	@HideInInspector var vertical : int;
-
-	function Move (movement : Vector3) {
-		gameObject.GetComponent(Rigidbody).velocity = movement * speed;
-	}
-
-	function ControlMovement () {
-		if (horizontal != 0 || vertical != 0) {
-			Move(Vector3(horizontal, 0, vertical));
-
-		} else {
-			Move(Vector3(0, 0, 0));
-		}
-	}
+	private var direction : int;
+	private var animator : Animator;
 
 	function SetDirection (inputDirection : int) {
 		direction = inputDirection;
 	}
 
-	function ControlDirection () {
-		if (vertical == 1) {
-			SetDirection(1);																	
-		}
-
-		if (horizontal == 1) {
-			SetDirection(2);																
-	 	}
-
-	 	if (vertical == -1) {
-	 		SetDirection(3);															
-		}
-
-		if (horizontal == -1) {
-			SetDirection(4);																	
-		}
-	}
-
 	function ControlAnimator () {
+		var animator : Animator = gameObject.GetComponent(Animator);
+		var agent : NavMeshAgent = gameObject.GetComponent(NavMeshAgent);
+		
+		SetDirection(Utility.GenerateIntFromVector(agent.velocity));
 		animator.SetInteger("direction", direction);
 
-		if (horizontal != 0 || vertical != 0) {
+		if (agent.velocity != Vector3(0, 0, 0)) {
 			animator.SetBool("walking", true);
-		}
 
-		if (horizontal == 0 && vertical == 0) {
+		} else {
 			animator.SetBool("walking", false);
 		}
 	}
