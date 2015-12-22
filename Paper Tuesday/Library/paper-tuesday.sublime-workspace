@@ -1,0 +1,949 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"tar",
+				"targetPosition"
+			],
+			[
+				"Con",
+				"ControlInput"
+			],
+			[
+				"In",
+				"inputVertical"
+			],
+			[
+				"in",
+				"inputHorizontal"
+			],
+			[
+				"aware",
+				"awareArray"
+			],
+			[
+				"att",
+				"attacking"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"Set",
+				"SetClosestPlayer"
+			],
+			[
+				"lo",
+				"location2"
+			],
+			[
+				"cl",
+				"closestPlayer"
+			],
+			[
+				"player",
+				"playerInRange"
+			],
+			[
+				"col",
+				"collision"
+			],
+			[
+				"lock",
+				"lockKeyDown"
+			],
+			[
+				"tr",
+				"triggerDown"
+			],
+			[
+				"pro",
+				"projectile"
+			],
+			[
+				"game",
+				"gamePlayer"
+			],
+			[
+				"input",
+				"inputRange"
+			],
+			[
+				"con",
+				"ControlDirection"
+			],
+			[
+				"for",
+				"force"
+			],
+			[
+				"kno",
+				"knockbackDirection"
+			],
+			[
+				"knockback",
+				"knockbackVector"
+			],
+			[
+				"inp",
+				"inputHeight"
+			],
+			[
+				"de",
+				"defaultSizeVector"
+			],
+			[
+				"crouc",
+				"crouchSizeVector"
+			],
+			[
+				"Re",
+				"RecieveDamage"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"a",
+				"agentProximityZ"
+			],
+			[
+				"agent",
+				"agentProximityX"
+			],
+			[
+				"ag",
+				"agentProximityX"
+			],
+			[
+				"age",
+				"agentProximityZ"
+			],
+			[
+				"move",
+				"moveVector"
+			],
+			[
+				"Vect",
+				"Vector2"
+			],
+			[
+				"Vec",
+				"Vector2"
+			],
+			[
+				"next",
+				"nextPosition"
+			],
+			[
+				"nex",
+				"nextPosition"
+			],
+			[
+				"cro",
+				"crouchCenterVector"
+			],
+			[
+				"play",
+				"playerProximityY"
+			],
+			[
+				"pl",
+				"playerLocation"
+			],
+			[
+				"awa",
+				"awareArray"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"near",
+				"nearestPlayerTransform"
+			],
+			[
+				"ga",
+				"GameObject"
+			],
+			[
+				"nea",
+				"nearestDistanceSqr"
+			],
+			[
+				"pla",
+				"playerPosition"
+			],
+			[
+				"Move",
+				"MoveTowardsPlayer"
+			],
+			[
+				"ar",
+				"awareOfPlayer"
+			],
+			[
+				"coll",
+				"colliderArray"
+			],
+			[
+				"collider",
+				"colliderArray"
+			],
+			[
+				"mom",
+				"movementComplete"
+			],
+			[
+				"ran",
+				"randomMovementDurationMin"
+			],
+			[
+				"gene",
+				"generatedDuration"
+			],
+			[
+				"moveme",
+				"movementComplete"
+			],
+			[
+				"ge",
+				"generatedBoolean"
+			],
+			[
+				"Generate",
+				"GenerateRandomIntBetween"
+			],
+			[
+				"low",
+				"lowSprite"
+			],
+			[
+				"fire",
+				"fireRate"
+			],
+			[
+				"Upd",
+				"UpdateProjectileOrigin"
+			],
+			[
+				"ac",
+				"actorObject"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"Control",
+				"ControlSpeed"
+			],
+			[
+				"active",
+				"activeScreen"
+			],
+			[
+				"scree",
+				"screenObject"
+			],
+			[
+				"char",
+				"characterObject"
+			],
+			[
+				"max",
+				"maximumX"
+			],
+			[
+				"min",
+				"minimumY"
+			],
+			[
+				"maxim",
+				"maximumX"
+			],
+			[
+				"acc",
+				"acceptableHighX"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"des",
+				"desiredY"
+			],
+			[
+				"chat",
+				"characterObject"
+			],
+			[
+				"scr",
+				"screenObject"
+			],
+			[
+				"north",
+				"northBorder"
+			],
+			[
+				"passiveMo",
+				"passiveMovementCycleComplete"
+			],
+			[
+				"movement",
+				"movementVector"
+			],
+			[
+				"com",
+				"consumeSound"
+			],
+			[
+				"ch",
+				"characterYapSprite"
+			],
+			[
+				"cha",
+				"characterIdleSprite"
+			],
+			[
+				"yap",
+				"yapSprite"
+			],
+			[
+				"idle",
+				"idleSprite"
+			],
+			[
+				"ya",
+				"yapDuration"
+			],
+			[
+				"portr",
+				"PortraitController"
+			],
+			[
+				"plaer",
+				"playerYap"
+			],
+			[
+				"Ski",
+				"SkipDialogPrint"
+			],
+			[
+				"Run",
+				"RunDialogFromIndex"
+			],
+			[
+				"Gene",
+				"GenerateIndexFromMarker"
+			],
+			[
+				"sc",
+				"scriptLength"
+			],
+			[
+				"mark",
+				"marker3"
+			],
+			[
+				"marker",
+				"marker2"
+			],
+			[
+				"dialog",
+				"dialogController"
+			],
+			[
+				"new",
+				"newLine"
+			],
+			[
+				"Optio",
+				"OptionExitEventProcess"
+			],
+			[
+				"option",
+				"option1Text"
+			],
+			[
+				"cursor",
+				"cursorRender"
+			],
+			[
+				"optio",
+				"option1"
+			],
+			[
+				"op",
+				"option3"
+			],
+			[
+				"cur",
+				"cursorTransform"
+			],
+			[
+				"opt",
+				"option1"
+			],
+			[
+				"text",
+				"textArrayIndex"
+			],
+			[
+				"Sprite",
+				"SpriteRenderer"
+			],
+			[
+				"Find",
+				"FindGameObjectWithTag"
+			],
+			[
+				"inputTex",
+				"inputText1"
+			],
+			[
+				"tex",
+				"textSpeed"
+			],
+			[
+				"slice",
+				"sliceText"
+			],
+			[
+				"dia",
+				"dialogTextBox"
+			],
+			[
+				"dial",
+				"dialogTextBox"
+			],
+			[
+				"Clear",
+				"ClearKeyInputs"
+			],
+			[
+				"Dia",
+				"dialogScript"
+			],
+			[
+				"charac",
+				"characterNameText"
+			],
+			[
+				"parent",
+				"parentObject"
+			],
+			[
+				"west",
+				"westScreen"
+			],
+			[
+				"northSc",
+				"northScreenController"
+			],
+			[
+				"east",
+				"eastScreen"
+			],
+			[
+				"su",
+				"surroundingScreens"
+			],
+			[
+				"berry",
+				"berryObject"
+			],
+			[
+				"Cont",
+				"ControlMenuInputs"
+			],
+			[
+				"Open",
+				"OpenInventory"
+			],
+			[
+				"out",
+				"outOfBorder"
+			],
+			[
+				"Get",
+				"GetComponentInParent"
+			],
+			[
+				"tru",
+				"thrusting"
+			],
+			[
+				"key1",
+				"key1Up"
+			],
+			[
+				"Anim",
+				"AnimateConsumption"
+			],
+			[
+				"key",
+				"keyHoldDuration"
+			],
+			[
+				"Init",
+				"InitiateAction"
+			],
+			[
+				"Initiate",
+				"INITIATE"
+			],
+			[
+				"th",
+				"thristQuench"
+			],
+			[
+				"hunger",
+				"hungerQuench"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Actors/Player.js",
+			"settings":
+			{
+				"buffer_size": 326,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Actors/Actor.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Controllers/CameraController.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Actors/Player.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Navigation/NavigationAgent.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Game/Utility.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Controllers/InputController.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tueday/Paper Tuesday/Assets/Scripts/Actors/Actor.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Navigation/GoalMarker.js",
+		"/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Controllers/MovementController.js",
+		"/Users/josephquested/Dropbox/Games/Worship!/Worship/Assets/Scripts/Controllers/InputController.js",
+		"/Users/josephquested/Dropbox/Games/Worship!/Worship/Assets/Scripts/Actors/Player.js",
+		"/Users/josephquested/Dropbox/Games/Worship!/Worship/Assets/Scripts/Actors/Actor.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Actors/Actor.js",
+		"/Users/josephquested/Dropbox/Games/Worship!/Worship/Assets/Scripts/Actors/InputController.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Actors/Enemies/AwareCollider.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Navigation/NavigationAgent.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/Weapon.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Actors/Player.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Game/Utility.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/MeleeCollider.js",
+		"/Users/josephquested/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/josephquested/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/Punch.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/MeleeWeapon.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Actors/Enemy.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons.meta",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/Projectile.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/RangedWeapon.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/ContactCollider.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Game/InputController.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Projectile.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapons/Pistol.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Pistol.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/RangedWeapon.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Weapon.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/MeleeWeapon.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Items/Item.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Game/GameBar.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Blocks/Block.js",
+		"/Users/josephquested/Downloads/style.css",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Actors/AwareCollider.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Follower.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Pathfinding/AstarAI.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/AstarPathfindingProject/ExampleScenes/Example12_Procedural/ProceduralGridMover.cs",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Enemy.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Actors/ActorData.js",
+		"/Users/josephquested/Dropbox/Games/Gangtown/Assets/Scripts/Game/InventoryController.js",
+		"/Users/josephquested/Dropbox/Games/Black Market/Assets/Scripts/Actors/Actor.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/Utility.js",
+		"/Users/josephquested/Dropbox/Games/Black Market/Assets/Scripts/Actor.js",
+		"/Users/josephquested/Dropbox/Games/Black Market/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs",
+		"/Users/josephquested/Downloads/ruby/learning ruby",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/NPC/EarthManDialog.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/Player.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialog/DialogTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialog/Dialog.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialog/DialogController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialog/Speech.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialog/DialogSystem.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/PlayerCollider.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/Game.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/ScreenController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/GameController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/CameraController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Character.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Enemy/Enemy.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Enemy/Mad Ram/MadRam.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/EnemyBorderTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/Controls.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Enemy/Mad Ram/MadRamChargeTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Items/ItemObject.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/PortraitController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Enemy/Mad Ram/MadRamAwareTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Items/Weapon.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/PlayerAction.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/PlayerAttack.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Items/Consumable.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Inventory/Inventory.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/PlayerLight.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Resources/Shaders/NewShader.shader",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Temp/Compiled-Sprites-Diffuse.shader",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/PlayerInteraction.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/Survival/Water.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/NPC/EarthManDialogue.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialogue/DialogueTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialogue/DialogueSystem.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialogue/DialogueController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Dialogue/Dialogue.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Inventory/IconTab.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Inventory/IconTabController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/DialogueTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/Interaction.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Dialogue.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/Survival.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Inventory/Slot.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Scenery/BerryBush.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/RebirthController.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Characters/Player/PlayerAttackTrigger.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Items/Item.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/PlayerInteraction.js",
+		"/Users/josephquested/Dropbox/Games/Worship/Worship!/Assets/Scripts/Game/DayNightController.js",
+		"/Users/josephquested/Documents/My Games/Worship/Worship!/Assets/Scripts/Characters/Player/Player.js",
+		"/Users/josephquested/Documents/My Games/Worship/Worship!/Assets/Scripts/Characters/Player/teast.cs",
+		"/Users/josephquested/Documents/My Games/Worship/Worship!/Assets/Scripts/Characters/Player/AttackTrigger.js",
+		"/Users/josephquested/Documents/My Games/Worship/Worship!/sublime_worship.sublime-project",
+		"/Users/josephquested/Documents/My Games/Worship/Worship!/Assets/Scripts/Game/Survival/Survival.js",
+		"/Users/josephquested/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/josephquested/Downloads/js.project/index.html",
+		"/Users/josephquested/Documents/movement.rb",
+		"/Users/josephquested/Desktop/hello_ruby.rb",
+		"/Users/josephquested/Documents/Apps/Gamedev/01-hello/hello_world.rb",
+		"/Users/josephquested/Documents/hello_world.rb",
+		"/Users/josephquested/Documents/01-hello:hello_world.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page.transform",
+			"activeScreen",
+			"cameraPage",
+			"maximumz",
+			"maximum",
+			"y",
+			"y\nwhile (transform.localPosition != cameraPage.transform.localPosition) {\n	print(\"I'm transitioning!\");\n	//activeScreen = Game.activeScreen;\n	var y : float = transform.localPosition.y;\n	var x : float = transform.localPosition.x;\n	var minimumY : float = activeScreen.transform.localPosition.y - 0.1;\n	var maximumY : float = activeScreen.transform.localPosition.y + 0.1;\n	var minimumX : float = activeScreen.transform.localPosition.x - 0.1;\n	var maximumX : float = activeScreen.transform.localPosition.x + 0.1;\n\n	if (y > maximumY) {\n		transform.localPosition.y -= screenTransitionSpeed;\n		}\n\n	if (x > maximumX) {\n		transform.localPosition.x -= screenTransitionSpeed;\n		}\n\n	if (y < minimumY) {\n		transform.localPosition.y += screenTransitionSpeed;\n		}\n\n	if (x < minimumX) {\n		transform.localPosition.x += screenTransitionSpeed;\n		}\n\n	if (y >= minimumY && y <= maximumY && x >= minimumX && x <= maximumX) {\n		print(\"I found the sweet spot!\");\n		transform.localPosition = activeScreen.transform.localPosition;\n		}\n\n	yield;\n	}",
+			"function MoveToCurrentPage() {\nwhile (transform.localPosition != cameraPage.transform.localPosition) {\n	print(\"I'm transitioning!\");\n	//activeScreen = Game.activeScreen;\n	var y : float = transform.localPosition.y;\n	var x : float = transform.localPosition.x;\n	var minimumY : float = activeScreen.transform.localPosition.y - 0.1;\n	var maximumY : float = activeScreen.transform.localPosition.y + 0.1;\n	var minimumX : float = activeScreen.transform.localPosition.x - 0.1;\n	var maximumX : float = activeScreen.transform.localPosition.x + 0.1;\n\n	if (y > maximumY) {\n		transform.localPosition.y -= screenTransitionSpeed;\n		}\n\n	if (x > maximumX) {\n		transform.localPosition.x -= screenTransitionSpeed;\n		}\n\n	if (y < minimumY) {\n		transform.localPosition.y += screenTransitionSpeed;\n		}\n\n	if (x < minimumX) {\n		transform.localPosition.x += screenTransitionSpeed;\n		}\n\n	if (y >= minimumY && y <= maximumY && x >= minimumX && x <= maximumX) {\n		print(\"I found the sweet spot!\");\n		transform.localPosition = activeScreen.transform.localPosition;\n		}\n\n	yield;\n	}",
+			"FindClosestPlayer",
+			"attacking",
+			"direction",
+			"attacking",
+			"		\n",
+			"triggerDown",
+			"triggerDown\na",
+			"triggerDown",
+			"LockDirection",
+			"Lock",
+			"lock",
+			"Lock",
+			"Trigger",
+			"OnTrigger",
+			"actor",
+			"fireRate\n",
+			"fireRate",
+			"\n		if (direction == 1) {\n			vector = Vector2(0, 0, 1);\n		}\n\n		if (direction == 2) {\n			vector = Vector2(1, 0, 0);\n		}\n\n		if (direction == 3) {\n			vector = Vector2(0, 0, -1);\n		}\n\n		if (direction == 4) {\n			vector = Vector2(-1, 0, 0);\n		}",
+			"\n		if (direction == 1) {\n			vector = Vector2(0, 0, 1);\n		}\n\n		if (direction == 2) {\n			vector = Vector2(1, 0, 0);\n		}\n\n		if (direction == 3) {\n			vector = Vector2(0, 0, -1);\n		}\n\n		if (direction == 4) {\n			vector = Vector2(-1, 0, 0)",
+			"agent.transform.position",
+			"SetMovement",
+			"player",
+			"playerProximityY",
+			"velocity",
+			"(velocity : Vector3) {\n    	var movement : Vector3;\n    	var h : float = velocity.x;\n    	var v : float = velocity.z;\n\n    	if (v > h) {\n    		movement = Vector3(h, 0, 0);\n\n    	} else {\n    		movement = Vector3(0, 0, v);\n    	}\n\n    	return movement;",
+			"Vector2",
+			"awareOfPlayer",
+			"Length",
+			"gene",
+			"loop",
+			"movementloop",
+			"();\n",
+			"movementLoop",
+			"ControlWalkDirectionLoop",
+			"direction",
+			"activeScreen",
+			"SetActiveScreen",
+			"Game.state = \"Transition\"",
+			"wait",
+			"player",
+			"\"Moving Transition\"",
+			"Move",
+			"MoveAway",
+			"borders",
+			"Generate",
+			"AtBorder",
+			"game",
+			"enemy",
+			"AtBorder",
+			";\n",
+			"Wait",
+			"while",
+			"masterBreak",
+			"Stop",
+			"passiveMovementCycleComplete",
+			"controls.key2",
+			"controls.key2 ",
+			"controls.key2",
+			"Dialog Skip",
+			"Skip",
+			"Play",
+			"consum",
+			"Consume",
+			"consume",
+			"Consume",
+			"consuming",
+			"consum",
+			"controls.shift",
+			"close",
+			"consum",
+			"SetPortraits",
+			"face",
+			"line",
+			"Sprite",
+			"SkipDialogPrint",
+			"skip",
+			"Skip",
+			"Genera",
+			"Start",
+			"GenerateIndexFromMarker",
+			"newLine",
+			"actor",
+			"cont",
+			"actor",
+			"option1Render",
+			"unction",
+			"Controls",
+			"Dialog Print",
+			"RunDialog",
+			"controls.key2",
+			"Speed",
+			"InstantiatePlayer",
+			"dialog",
+			"render",
+			"text",
+			"canvas",
+			"slotList",
+			"text",
+			"\";\n",
+			"-1",
+			"ReturnSurroundingScreens",
+			"Time.deltaTime",
+			"survival",
+			"cursorRender",
+			"CheckIfInventoryFull",
+			"full",
+			"print",
+			"canAttack",
+			"inventoryOpen",
+			"animator",
+			"moving",
+			"StopMove",
+			"state",
+			"moving",
+			"player",
+			"Game.",
+			"moving",
+			"paused",
+			"Game",
+			"Game.state"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/josephquested/Dropbox/Games/Paper Tuesday/Paper Tuesday/Assets/Scripts/Actors/Player.js",
+					"settings":
+					{
+						"buffer_size": 326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Unity3D/UnityJavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"so sublime"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 127.0,
+	"status_bar_visible": true
+}

@@ -8,9 +8,8 @@ public class Player extends Actor {
 		ControlAnimator();
 	}
 
-	function OnTriggerEnter (collider : Collider) {
+	function OnTriggerStay (collider : Collider) {
 		if (collider.tag == "Page") {
-			print(collider.gameObject.name + " initiating transition!");
 			GameObject.Find("Main Camera").GetComponent(CameraController).MoveToPage(collider.gameObject);
 		}
 	}

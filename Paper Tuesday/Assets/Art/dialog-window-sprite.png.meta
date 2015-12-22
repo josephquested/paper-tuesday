@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 4d49f140f71bc4bbdbf02f5a6dc71004
+timeCreated: 1450736897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dialog-window-sprite_0
+    21300002: dialog-window-sprite_1
+    21300004: dialog-window-sprite_2
+    21300006: dialog-window-sprite_3
+    21300008: dialog-window-sprite_4
+    21300010: dialog-window-sprite_5
+    21300012: dialog-window-sprite_6
+    21300014: dialog-window-sprite_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dialog-window-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2020
+        width: 1281
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog-window-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1681
+        width: 1230
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog-window-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1296
+        width: 571
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog-window-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 221
+        width: 3175
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog-window-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1246
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dialog-window-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 1240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

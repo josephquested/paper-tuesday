@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: de9e7914007db473689490e763ff9d03
-timeCreated: 1450396924
+timeCreated: 1450747744
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -16,6 +16,19 @@ TextureImporter:
     21300018: worship-player_9
     21300020: worship-player_10
     21300022: worship-player_11
+    21300024: nestor-sprite_0
+    21300026: nestor-sprite_1
+    21300028: nestor-sprite_2
+    21300030: nestor-sprite_3
+    21300032: nestor-sprite_4
+    21300034: nestor-sprite_5
+    21300036: nestor-sprite_6
+    21300038: nestor-sprite_7
+    21300040: nestor-sprite_8
+    21300042: nestor-sprite_9
+    21300044: nestor-sprite_10
+    21300046: nestor-sprite_11
+    21300048: nestor-sprite_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,87 +74,87 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: worship-player_0
+    - name: nestor-sprite_0
       rect:
         serializedVersion: 2
-        x: 106
+        x: 107
         y: 2204
-        width: 82
+        width: 81
         height: 255
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_1
+    - name: nestor-sprite_1
       rect:
         serializedVersion: 2
         x: 411
         y: 2216
-        width: 82
+        width: 81
         height: 243
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_2
+    - name: nestor-sprite_2
       rect:
         serializedVersion: 2
         x: 714
-        y: 2209
+        y: 2210
         width: 77
-        height: 250
+        height: 249
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_3
+    - name: nestor-sprite_3
       rect:
         serializedVersion: 2
-        x: 1011
+        x: 1010
         y: 2211
-        width: 82
+        width: 83
         height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_4
+    - name: nestor-sprite_4
       rect:
         serializedVersion: 2
-        x: 108
+        x: 109
         y: 1913
-        width: 84
-        height: 257
+        width: 82
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_5
+    - name: nestor-sprite_5
       rect:
         serializedVersion: 2
-        x: 409
-        y: 1906
-        width: 88
-        height: 254
+        x: 410
+        y: 1907
+        width: 87
+        height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_6
+    - name: nestor-sprite_6
       rect:
         serializedVersion: 2
         x: 680
-        y: 1899
-        width: 106
-        height: 268
+        y: 1900
+        width: 105
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_7
+    - name: nestor-sprite_7
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 1005
         y: 1903
-        width: 82
+        width: 81
         height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_8
+    - name: nestor-sprite_8
       rect:
         serializedVersion: 2
         x: 110
@@ -151,33 +164,33 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_9
+    - name: nestor-sprite_9
       rect:
         serializedVersion: 2
         x: 392
         y: 1603
-        width: 110
+        width: 109
         height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_10
+    - name: nestor-sprite_10
       rect:
         serializedVersion: 2
-        x: 692
+        x: 693
         y: 1608
-        width: 115
+        width: 114
         height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: worship-player_11
+    - name: nestor-sprite_11
       rect:
         serializedVersion: 2
-        x: 1002
+        x: 1003
         y: 1603
-        width: 86
-        height: 264
+        width: 84
+        height: 263
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

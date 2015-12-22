@@ -13,31 +13,33 @@ public class CameraController extends MonoBehaviour {
 		
 		goalVector.y = 10;
 
-		while (transform.localPosition != goalVector) {
-			var z : float = transform.localPosition.z;
-			var x : float = transform.localPosition.x;
+		if (transform.localPosition != goalVector) {
+			while (transform.localPosition != goalVector) {
+				var z : float = transform.localPosition.z;
+				var x : float = transform.localPosition.x;
 
-			if (z > maximumZ) {
-				transform.localPosition.z -= screenTransitionSpeed;
+				if (z > maximumZ) {
+					transform.localPosition.z -= screenTransitionSpeed;
+					}
+
+				if (x > maximumX) {
+					transform.localPosition.x -= screenTransitionSpeed;
+					}
+
+				if (z < minimumZ) {
+					transform.localPosition.z += screenTransitionSpeed;
+					}
+
+				if (x < minimumX) {
+					transform.localPosition.x += screenTransitionSpeed;
+					}
+
+				if (z >= minimumZ && z <= maximumZ && x >= minimumX && x <= maximumX) {
+					transform.localPosition = goalVector;
 				}
 
-			if (x > maximumX) {
-				transform.localPosition.x -= screenTransitionSpeed;
-				}
-
-			if (z < minimumZ) {
-				transform.localPosition.z += screenTransitionSpeed;
-				}
-
-			if (x < minimumX) {
-				transform.localPosition.x += screenTransitionSpeed;
-				}
-
-			if (z >= minimumZ && z <= maximumZ && x >= minimumX && x <= maximumX) {
-				transform.localPosition = goalVector;
+			yield;
 			}
-
-		yield;
 		}
 	}
 }
