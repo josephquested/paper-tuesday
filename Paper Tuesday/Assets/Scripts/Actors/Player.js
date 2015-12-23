@@ -13,4 +13,9 @@ public class Player extends Actor {
 			GameObject.Find("Main Camera").GetComponent(CameraController).MoveToPage(collider.gameObject);
 		}
 	}
+
+	function SetInteractionTarget (target : GameObject) {
+		print(target.name);
+		GameObject.Find("Interaction Arrow").GetComponent(InteractionArrow).SetInteractionTarget(target);
+	}
 }
